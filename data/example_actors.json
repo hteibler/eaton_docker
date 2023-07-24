@@ -1,0 +1,308 @@
+[
+  {
+    "id": "xCo:350793_u0",
+    "name": "Gudrun's Zimmer ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:2000747_u0",
+    "name": "Schuppen ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:2102697_u0",
+    "name": "Lichtband-Wohnraum ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:2106574_u0",
+    "name": "KG Dusche ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "Keller",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:2568738_u0",
+    "name": "Stecker-Aktor1 ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:2902174_u0",
+    "name": "KellerMitte ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "Keller",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:2902177_u0",
+    "name": "Wohnraum Schreibtisch ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:3135024_u0",
+    "name": "Gästezimmer ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:333447_u0",
+    "name": "Haustür ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:345046_u0",
+    "name": "KG Ausgang ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "Keller",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:347908_u0",
+    "name": "Licht Küche ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:4081332_u0",
+    "name": "KellerStiege ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "Keller",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:5707679_u0",
+    "name": "Vorraum  ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:5776305_u0",
+    "name": "KG WC-Techik  ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "Keller",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:5778534_u0",
+    "name": "Esstisch ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:6120697_u0",
+    "name": "Terasse Westen  (Actuator)",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:6151364_u0",
+    "name": "Tisch-Wohnraumneu ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:6151404_u0",
+    "name": "Ofen LiRe  (Aktor)",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:6151493_u0",
+    "name": "Ofen Mitte  (Aktor)",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:8012833_u0",
+    "name": "Coutch-Wohnraumneu",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:8013033_u0",
+    "name": "Regal  (Actuator)",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:7981102_u0",
+    "name": "jal_EG_WEST ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:8000123_u0",
+    "name": "jal_eg_links ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:534822_u0",
+    "name": "Raumcontroller ",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:534822_w",
+    "name": "Raumcontroller  (adjustment)",
+    "type": "",
+    "zone": "hz_1",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:334048_u0",
+    "name": "OG WZ Ost ",
+    "type": "",
+    "zone": "hz_2",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:334052_u0",
+    "name": "OG Küche Ost ",
+    "type": "",
+    "zone": "hz_2",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:337015_u0",
+    "name": "OG WZ Tür ",
+    "type": "",
+    "zone": "hz_2",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:5687813_u0",
+    "name": "Eltern SZ ",
+    "type": "",
+    "zone": "hz_2",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:5695494_u0",
+    "name": "Kinder West ",
+    "type": "",
+    "zone": "hz_2",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:7705203_u0",
+    "name": "Kinder Süd ",
+    "type": "",
+    "zone": "hz_2",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:7705216_u0",
+    "name": "Kinder Tür ",
+    "type": "",
+    "zone": "hz_2",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:7981001_u0",
+    "name": "OG_WZ-SÜD-OST ",
+    "type": "",
+    "zone": "hz_2",
+    "floor": "",
+    "group": "",
+    "room": ""
+  },
+  {
+    "id": "xCo:7981027_u0",
+    "name": "jal_OG-WEST ",
+    "type": "",
+    "zone": "hz_2",
+    "floor": "",
+    "group": "",
+    "room": ""
+  }
+]

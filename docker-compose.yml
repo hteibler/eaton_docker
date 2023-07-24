@@ -1,0 +1,14 @@
+# Simple docker-composer.yml
+# You can change your port or volume location
+
+version: '3.3'
+
+services:
+  eaton_srv:
+    image: eaton_srv
+    container_name: eaton_srv
+    volumes:
+      - ./data:/data
+    ports:
+      - 9997:9997
+    restart: always
