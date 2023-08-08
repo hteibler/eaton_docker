@@ -32,7 +32,13 @@ COMMANDS depending on device :
 
 states=["on","off","toggle","stepOpen","stepClose","open", "close", "stop","directSetLock","directReleaseLock","directSwitchOn","directSwitchOff"]
 
-with eg:
+**and additionaly you can set a dimmer switch with "set=dim:50" to a value in % ( 0-100)**
+
+http://192.168.0.95:9997/actor?actor=xCo:2902174_u0&set=dim:50
+
+
+## to get the list of devices from SHC use
+
 http://192.168.0.95:9997/list?
 
 you get a list of your devices

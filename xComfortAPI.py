@@ -90,7 +90,7 @@ class xComfortAPI:
 			'Content-Type': 'application/json',
 			'Accept': 'application/json, text/javascript, */*; q=0.01',
 		}
-
+		print("dd",data)
 		try:
 			response = requests.post(json_url, data=json.dumps(data), headers=headers).json()
 		except ValueError as err:
@@ -154,8 +154,11 @@ class xComfortAPI:
 		"""
 		states=["on","off","toggle","stepOpen","stepClose","open", "close", "stop","directSetLock","directReleaseLock","directSwitchOn","directSwitchOff"]
 		if not state in states:
-			print('Error: switch() state must be not:"' + str(state) + '"')
-			exit(1)
+			if state[:3] == "dim":
+				state=state[4:]
+			else:
+				print('Error: switch() state must be not:"' + str(state) + '"')
+				exit(1)
 		result = self.query('StatusControlFunction/controlDevice', params=[zone, dev_id, state])
 		return result
 
