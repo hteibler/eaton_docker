@@ -177,10 +177,18 @@ if __name__ == '__main__':
 
     actors = {}
     actors_file = './data/actors.json'
-    if os.path.isfile(actors_file):
-        with open('./data/actors.json') as f:
-            actors = json.load(f)
+    try:
+        if os.path.isfile(actors_file):
+            with open('./data/actors.json') as f:
+                actors = json.load(f)
 
+    except Exception as error:
+        print(80*"-")
+        print("somethings wrong with actors.json")
+        print("Error:",error)
+        print(80*"-")
+        actors = {}
+        pass
     # get this list from http://192.168.0.95:9999/list?
     # build your groups and floors
 
